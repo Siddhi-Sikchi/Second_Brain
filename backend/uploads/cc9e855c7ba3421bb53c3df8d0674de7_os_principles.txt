@@ -1,0 +1,1 @@
+Operating systems manage computer hardware and software resources. The kernel is the central component that provides memory management, process scheduling, and hardware device driver interaction. Virtual memory uses paging tables to isolate user memory.

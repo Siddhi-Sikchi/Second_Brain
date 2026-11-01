@@ -1,0 +1,34 @@
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pytest_cache/
+.pytest_cache/
+*.sqlite3
+
+# Node Dependencies & Build Output
+node_modules/
+frontend/node_modules/
+frontend/dist/
+dist/
+
+# Local Environment & Secrets
+.env
+backend/.env
+*.local
+
+# SQLite Database & Uploads
+*.db
+*.db-wal
+*.db-shm
+test_*.db
+backend/test_second_brain.db
+
+# OS Artifacts
+.DS_Store
+Thumbs.db

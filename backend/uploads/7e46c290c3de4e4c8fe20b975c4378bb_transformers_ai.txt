@@ -1,0 +1,1 @@
+Artificial intelligence and deep learning algorithms have revolutionized natural language processing. Large language models leverage transformer neural networks with self-attention mechanisms. Vector embeddings allow semantic search and retrieval-augmented generation to ground responses on verified academic source materials.

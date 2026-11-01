@@ -1,0 +1,1 @@
+Distributed consensus algorithms like Raft and Paxos allow state machine replication. Raft divides consensus into leader election, log replication, and safety. Heartbeat messages maintain leader authority and detect server crashes.
