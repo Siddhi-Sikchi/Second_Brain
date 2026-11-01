@@ -32,3 +32,6 @@ backend/test_second_brain.db
 # OS Artifacts
 .DS_Store
 Thumbs.db
+
+# Jenkins CI virtual environment
+**/.venv-ci/
