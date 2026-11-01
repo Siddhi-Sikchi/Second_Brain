@@ -129,3 +129,9 @@ Run all automated pytest suites:
 - **Total Backlog:** 18 User Stories across 9 Epics (68 Story Points)
 - **Sprint Schedule:** Four 2-week sprints (Sprint 1: 18 SP, Sprint 2: 18 SP, Sprint 3: 18 SP, Sprint 4: 14 SP)
 - **Traceability:** Detailed in `docs/jira-implementation-report.md`.
+
+
+## CI/CD Integration
+
+This project uses Jenkins to automate backend testing,
+frontend production builds, and artifact delivery.
